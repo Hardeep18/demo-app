@@ -1,2 +1,3 @@
-# demo-app
-HTML page for demo purpose
+# README #
+
+Demo app
